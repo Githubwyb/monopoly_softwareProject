@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/cmd.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+cmd.h
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/cmd.h
+game.h
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/game.h
+events.h
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/events.h
+
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/cmd.h
+
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/events.h
+game.h
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/game.h
+
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/game.h
+cmd.h
+E:/work/seedclass/svn/Game_Monopoly/version_1.5/cmd.h
+
